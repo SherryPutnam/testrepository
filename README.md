@@ -1,2 +1,2 @@
 # testrepository
-my first repo
+my first repos
